@@ -22,6 +22,9 @@ Sağlam İstisna Yönetimi: Bağlantı hatalarında program çökmemesi için ö
 Python 3.8+ yüklü olduğundan emin ol.
 
 sudo apt install wine
+
 git clone https://github.com/HamzaAlkan55/StormStrike-v2.0.git
+
 cd StormStrike-v2.0
+
 wine StormStrike_v2.0.exe
